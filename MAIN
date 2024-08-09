@@ -54,7 +54,7 @@ https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF: -1 tvg-logo="https://i.ibb.co/WzRvVwL/20240610-113124.png" group-title="BANGLADESH", MOVIES BANGLA
 http://alvetv.com/mbtv/8080/index.m3u8
 #EXTINF: -1 tvg-logo="https://edge01.iptv.digijadoo.net/static/gazi_tv.png" group-title="BANGLADESH", GAZI TV
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=gazi_tv_hd
+http://172.28.28.20:8099/ch3/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://edge01.iptv.digijadoo.net/static/jamuna_tv.png" group-title="BANGLADESH", JAMUNA  TV
 https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@JamunaTVbd
 #EXTINF: -1 tvg-logo="https://i.ibb.co/BVJ8Bw9/IMG-20240126-112953.jpg" group-title="BANGLADESH", RAJDHANI TV
