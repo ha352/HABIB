@@ -1,2 +1,2 @@
-#EXTINF:-1, JAMUNA
+#EXTINF: -1 tvg-logo="https://edge01.iptv.digijadoo.net/static/btv_world.png" group-title="BANGLADESH", BTV WORLD
 http://172.28.28.20:8099/ch1/tracks-v1a1/mono.m3u8
