@@ -42,7 +42,7 @@ https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@e
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/bangla_tv.png" group-title="BANGLADESH",-1  , BANGLA TV
 https://himel-op.top/Join-Telegram-@HimelOP_Official/hey.m3u8?id=34573
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/bijoy_tv.png" group-title="BANGLADESH",-1  , BIJOY TV
-http://188.241.218.199:34011/ghLs2zdZSnFvTT00002814303e5df5603f378db9f76675598677d576/tracks-v1a1/2024/08/10/17/11/36-10000.ts?token=55a1721444fc09c5d51e001782e5a33f
+http://188.241.218.199:34011/ghLs2zdZSnFvTT00002814303e5df5603f378db9f76675598677d576/tracks-v1a1/mono.m3u8?token=f02bb4c948882952731b217f81cd24e8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Channel_S_Logo.SVG/640px-Channel_S_Logo.SVG.png" group-title="BANGLADESH",-1  , CHENNEL S
 https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/chsukoff.stream/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1200px-Ekushey_Television_Logo.svg.png" group-title="BANGLADESH",-1  , EKUSHEY E TV
@@ -50,7 +50,7 @@ https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/boishakhi_tv.png" group-title="BANGLADESH",-1  , BOSAKHI TV
 https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=boishakhi_tv
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/asian_tv.png" group-title="BANGLADESH",-1  , ASIAN TV
-http://188.241.218.199:34011/ghLs2zdZSnFvTT00002814303e5df5603f378db9f76675598677d576/tracks-v1a1/2024/08/10/17/11/36-10000.ts?token=55a1721444fc09c5d51e001782e5a33f
+http://188.241.218.199:34011/ghLs2zdZSnFvTT00002814303e5df5603f378db9f47c76579177d576/tracks-v1a1a2/mono.m3u8?token=71b446c6b3abde10e5e29d19057fc9f7
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WzRvVwL/20240610-113124.png" group-title="BANGLADESH",-1  , MOVIES BANGLA
 http://alvetv.com/mbtv/8080/index.m3u8
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/gazi_tv.png" group-title="BANGLADESH",-1  , GAZI TV
