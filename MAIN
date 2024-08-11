@@ -30,7 +30,7 @@ http://mytvbangla.com/0.m3u8
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_news.png" group-title="BANGLADESH",-1  , ATN NEWS
 http://ekdilhai.pro/BD_ATNNEWS/tracks-v1a1/mono.m3u8?token=3eda2a6f3ab909157b9fd2272198325a
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/nagorik_tv.png" group-title="BANGLADESH",-1  , NAGORIK TV
-https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=0hP1-HWIzHr2NT1P3P5rqw&expires=1719511347&user=ff39d05fef0749028389f28943b73363
+https://live.jadooiptv.com/allLive/nagorik_tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_9.png" group-title="BANGLADESH",-1  , CHENNEL 9
 http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/2316.ts
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/deepto_tv.png" group-title="BANGLADESH",-1  , DEEPTO TV
@@ -44,7 +44,7 @@ https://himel-op.top/Join-Telegram-@HimelOP_Official/hey.m3u8?id=34573
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/bijoy_tv.png" group-title="BANGLADESH",-1  , BIJOY TV
 http://188.241.218.199:34011/ghLs2zdZSnFvTT00002814303e5df5603f378db9f76675598677d576/tracks-v1a1/mono.m3u8?token=f02bb4c948882952731b217f81cd24e8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Channel_S_Logo.SVG/640px-Channel_S_Logo.SVG.png" group-title="BANGLADESH",-1  , CHENNEL S
-https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/chsukoff.stream/mono.m3u8
+https://amigofx.com:1936/channelsreporter/channelsreporter/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1200px-Ekushey_Television_Logo.svg.png" group-title="BANGLADESH",-1  , EKUSHEY E TV
 https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/boishakhi_tv.png" group-title="BANGLADESH",-1  , BOSAKHI TV
