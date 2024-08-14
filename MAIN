@@ -18,15 +18,15 @@ http://tv.cloudcdn.me/live.ts?channelId=84&uid=8164&deviceMac=00:1A:79:17:D4:A1
 #EXTINF: -1 tvg-id="1" tvg-name="1" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen4_HD.png" group-title="SPORTS",SONY SPORTS 4
 http://lifetvbd.xyz:8080/play/MJjp2AuZQlq-gE09eDufj5a0EBuORIiQMsvQ0esVAok/ts
 #EXTINF: -1 tvg-id="380497" tvg-name="-1" tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_i.png" group-title="BANGLADESH",CHENNEL I
-https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@ChanneliNews
+https://utube.buddyxiptv.com/@channelinews.m3u8
 #EXTINF: -1 tvg-id="1" tvg-name="1" tvg-logo="https://medianet.mv/media/channel/181x0-icon.png" group-title="SPORTS",SONY SPORTS 5
 http://humsab.xyz/S_Ten5/index.m3u8
 #EXTINF: -1 tvg-id="592061" tvg-name="-1" tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_24.png" group-title="BANGLADESH",CHANEL 24
-https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@channel24digital
+https://utube.buddyxiptv.com/@channel24digital.m3u8
 #EXTINF: -1 tvg-id="1" tvg-name="1" tvg-logo="https://bokulsports.com/upload/channel/Tv%20logo/NewFolder/20240609_190502.jpg" group-title="SPORTS",STAR SPORTS 1
 http://lifetvbd.xyz:8080/play/MJjp2AuZQlq-gE09eDufjyUt9hkbe8xC7tGZHI_uwTs/ts
 #EXTINF: -1 tvg-id="506922" tvg-name="-1" tvg-logo="https://edge01.iptv.digijadoo.net/static/somoy_news.png" group-title="BANGLADESH",SOMOY TV
-https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@somoynews360
+https://utube.buddyxiptv.com/@somoynews360.m3u8
 #EXTINF: -1 tvg-id="1" tvg-name="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw3mFXKTllOo4XMJQpPMMWNya_rxSbnVSFsA&s" group-title="SPORTS",STAR SPORTS 2
 https://test-tan-iota-90.vercel.app/live/bdix/app/StarSports2.m3u8
 #EXTINF: -1 tvg-id="693428" tvg-name="-1" tvg-logo="https://edge01.iptv.digijadoo.net/static/ekattor_tv.png" group-title="BANGLADESH",EKATTOR TALEVISION
@@ -34,7 +34,7 @@ https://edge01.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8?expires=1723794759
 #EXTINF: -1 tvg-id="1" tvg-name="1" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAATcAAACiCAMAAAATIHpEAAABKVBMVEX//////v////3UADL///v///oUG08AADkAAEL8//8AADwUHE0AAD4THEsAADsAAEAAADS3usMAADf9+v/EQFoAADLDACi7NlUUG1H/8/XHDj4ME0n57fHVACwAAET4//wZG0WjprgAAC95eptGSWxUWHHBxs45PVyVmKgsMVMADD8AAEfRA" group-title="SPORTS",EUROSPORTS 1
 https://vipgoodlive-tvs.starcdn.live/Eurosport_1_Live_TV/tracks-v1a1/index.m3u8?
 #EXTINF: -1 tvg-id="853498" tvg-name="-1" tvg-logo="https://edge01.iptv.digijadoo.net/static/dbc_news.png" group-title="BANGLADESH",DBC NEWS
-https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@dbcnewstv
+https://utube.buddyxiptv.com/@dbcnewstv.m3u8
 #EXTINF: -1 tvg-id="1" tvg-name="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiQVWDTnjKIJD_Cpzkl3NZNpthhXGMz8VCSg&s" group-title="SPORTS",SKY SPORTS CRICKET
 https://vipgoodlive-tvs.starcdn.live/Sky_Sports_Cricket_Live_TV/tracks-v1a1/index.m3u8?
 #EXTINF: -1 tvg-id="1" tvg-name="1" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-football-uk.svg" group-title="SPORTS",SKY SPORTS FOOTBALL
@@ -66,11 +66,11 @@ https://vipgoodlive-tvs.starcdn.live/ESPN_Live_TV/tracks-v1a1/index.m3u8?
 #EXTINF: -1 tvg-id="902377" tvg-name="-1" tvg-logo="https://edge01.iptv.digijadoo.net/static/news_24_hd.png" group-title="BANGLADESH",NEWS 24
 https://edge01.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8?expires=1723799164&md5=52Ac1Vnl6erDxCKlxqKOrA&user=c28278b7cc41459ea95c1d05df91e3e7
 #EXTINF: -1 tvg-id="401716" tvg-name="-1" tvg-logo="https://edge01.iptv.digijadoo.net/static/rtv.png" group-title="BANGLADESH",R TV
-https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@RtvNews
+https://utube.buddyxiptv.com/@RtvNews.m3u8
 #EXTINF: -1 tvg-id="332494" tvg-name="-1" tvg-logo="https://edge01.iptv.digijadoo.net/static/independent_tv.png" group-title="BANGLADESH",INDEPENDENT TELEVISION
-https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@IndependentTelevision
+https://utube.buddyxiptv.com/@IndependentTelevision.m3u8
 #EXTINF: -1 tvg-id="904345" tvg-name="-1" tvg-logo="https://edge01.iptv.digijadoo.net/static/ntv.png" group-title="BANGLADESH",N TV
-https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@NTVDigitalLive
+https://utube.buddyxiptv.com/@NTVDigitalLive.m3u8
 #EXTINF: -1 tvg-id="721365" tvg-name="-1" tvg-logo="https://i.ibb.co/b2SgvVr/20240610-110153.png" group-title="BANGLADESH",MY TV
 http://mytvbangla.com/0.m3u8
 #EXTINF: -1 tvg-id="723656" tvg-name="-1" tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_news.png" group-title="BANGLADESH",ATN NEWS
@@ -78,7 +78,7 @@ http://ekdilhai.pro/BD_ATNNEWS/tracks-v1a1/mono.m3u8?token=3eda2a6f3ab909157b9fd
 #EXTINF: -1 tvg-id="381142" tvg-name="-1" tvg-logo="https://edge01.iptv.digijadoo.net/static/nagorik_tv.png" group-title="BANGLADESH",NAGORIK TV
 https://tv5.hoichoi24.com/1113/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="219310" tvg-name="-1" tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_9.png" group-title="BANGLADESH",CHENNEL 9
-https://edge01.iptv.digijadoo.net/live/channel_9/chunks.m3u8?expires=1723798989&md5=oyxPK0MSqclQzuXovyMV6A&user=c28278b7cc41459ea95c1d05df91e3e7
+http://tv.cloudcdn.me/live.ts?channelId=88&uid=8164&deviceMac=00:1A:79:17:D4:A1
 #EXTINF: -1 tvg-id="560766" tvg-name="-1" tvg-logo="https://edge01.iptv.digijadoo.net/static/deepto_tv.png" group-title="BANGLADESH",DEEPTO TELEVISION
 https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deeptotv.stream/live-orgin/deeptotv.stream/chunks.m3u8
 #EXTINF: -1 tvg-id="115796" tvg-name="-1" tvg-logo="https://edge01.iptv.digijadoo.net/static/sa_tv.png" group-title="BANGLADESH",S A TV
