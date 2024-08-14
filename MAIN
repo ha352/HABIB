@@ -30,7 +30,7 @@ https://utube.buddyxiptv.com/@somoynews360.m3u8
 #EXTINF: -1 tvg-id="1" tvg-name="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw3mFXKTllOo4XMJQpPMMWNya_rxSbnVSFsA&s" group-title="SPORTS",STAR SPORTS 2
 https://test-tan-iota-90.vercel.app/live/bdix/app/StarSports2.m3u8
 #EXTINF: -1 tvg-id="693428" tvg-name="-1" tvg-logo="https://edge01.iptv.digijadoo.net/static/ekattor_tv.png" group-title="BANGLADESH",EKATTOR TALEVISION
-https://edge01.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8?expires=1723794759&md5=s9dKyAGUkz7he27EcPXBPA&user=c28278b7cc41459ea95c1d05df91e3e7
+http://ekdilhai.pro/BD_Ekattortv/mpegts?token=e2332c56be3d61d71f3c43fb66aaeb31
 #EXTINF: -1 tvg-id="1" tvg-name="1" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAATcAAACiCAMAAAATIHpEAAABKVBMVEX//////v////3UADL///v///oUG08AADkAAEL8//8AADwUHE0AAD4THEsAADsAAEAAADS3usMAADf9+v/EQFoAADLDACi7NlUUG1H/8/XHDj4ME0n57fHVACwAAET4//wZG0WjprgAAC95eptGSWxUWHHBxs45PVyVmKgsMVMADD8AAEfRA" group-title="SPORTS",EUROSPORTS 1
 https://vipgoodlive-tvs.starcdn.live/Eurosport_1_Live_TV/tracks-v1a1/index.m3u8?
 #EXTINF: -1 tvg-id="853498" tvg-name="-1" tvg-logo="https://edge01.iptv.digijadoo.net/static/dbc_news.png" group-title="BANGLADESH",DBC NEWS
@@ -76,7 +76,7 @@ http://mytvbangla.com/0.m3u8
 #EXTINF: -1 tvg-id="723656" tvg-name="-1" tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_news.png" group-title="BANGLADESH",ATN NEWS
 http://ekdilhai.pro/BD_ATNNEWS/tracks-v1a1/mono.m3u8?token=3eda2a6f3ab909157b9fd2272198325a
 #EXTINF: -1 tvg-id="381142" tvg-name="-1" tvg-logo="https://edge01.iptv.digijadoo.net/static/nagorik_tv.png" group-title="BANGLADESH",NAGORIK TV
-https://tv5.hoichoi24.com/1113/tracks-v1a1/mono.m3u8
+http://lifetvbd.xyz:8080/play/MJjp2AuZQlq-gE09eDufjxUzojqbEe7BB8SOvJeQpqc/ts
 #EXTINF: -1 tvg-id="219310" tvg-name="-1" tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_9.png" group-title="BANGLADESH",CHENNEL 9
 http://tv.cloudcdn.me/live.ts?channelId=88&uid=8164&deviceMac=00:1A:79:17:D4:A1
 #EXTINF: -1 tvg-id="560766" tvg-name="-1" tvg-logo="https://edge01.iptv.digijadoo.net/static/deepto_tv.png" group-title="BANGLADESH",DEEPTO TELEVISION
@@ -84,7 +84,7 @@ https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF: -1 tvg-id="115796" tvg-name="-1" tvg-logo="https://edge01.iptv.digijadoo.net/static/sa_tv.png" group-title="BANGLADESH",S A TV
 https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/protv.m3u8?id=11204
 #EXTINF: -1 tvg-id="884821" tvg-name="-1" tvg-logo="https://i.ibb.co/93KYQcN/20240610-113616.png" group-title="BANGLADESH",EKHON TV
-https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@ekhontv
+https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@ekhontv
 #EXTINF: -1 tvg-id="541836" tvg-name="-1" tvg-logo="https://edge01.iptv.digijadoo.net/static/bangla_tv.png" group-title="BANGLADESH",BANGLA TV
 https://himel-op.top/Join-Telegram-@HimelOP_Official/hey.m3u8?id=34573
 #EXTINF: -1 tvg-id="392852" tvg-name="-1" tvg-logo="https://edge01.iptv.digijadoo.net/static/bijoy_tv.png" group-title="BANGLADESH",BIJOY TV
@@ -94,7 +94,7 @@ https://amigofx.com:1936/channelsreporter/channelsreporter/playlist.m3u8
 #EXTINF: -1 tvg-id="158584" tvg-name="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1200px-Ekushey_Television_Logo.svg.png" group-title="BANGLADESH",EKUSHEY TELEVISION
 https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF: -1 tvg-id="345817" tvg-name="-1" tvg-logo="https://edge01.iptv.digijadoo.net/static/boishakhi_tv.png" group-title="BANGLADESH",BOISHAKHI TELEVISION
-https://edge01.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8?expires=1723799040&md5=WSo_DorgaFoPNL0erkoiJw&user=c28278b7cc41459ea95c1d05df91e3e7
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTINF: -1 tvg-id="293934" tvg-name="-1" tvg-logo="https://edge01.iptv.digijadoo.net/static/asian_tv.png" group-title="BANGLADESH",ASIAN TV
 http://188.241.218.199:34011/ghLs2zdZSnFvTT00002814303e5df5603f378db9f47c76579177d576/tracks-v1a1a2/mono.m3u8?token=71b446c6b3abde10e5e29d19057fc9f7
 #EXTINF: -1 tvg-id="889226" tvg-name="-1" tvg-logo="https://i.ibb.co/WzRvVwL/20240610-113124.png" group-title="BANGLADESH",MOVIES BANGLA
@@ -102,7 +102,7 @@ http://alvetv.com/mbtv/8080/index.m3u8
 #EXTINF: -1 tvg-id="741260" tvg-name="-1" tvg-logo="https://edge01.iptv.digijadoo.net/static/gazi_tv.png" group-title="BANGLADESH",G TV
 http://172.28.28.20:8099/ch3/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="549885" tvg-name="-1" tvg-logo="https://edge01.iptv.digijadoo.net/static/jamuna_tv.png" group-title="BANGLADESH",JAMUNA TELEVISION
-https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@JamunaTVbd
+https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@JamunaTVbd
 #EXTINF: -1 tvg-id="722386" tvg-name="-1" tvg-logo="https://i.ibb.co/BVJ8Bw9/IMG-20240126-112953.jpg" group-title="BANGLADESH",RAJDHANI TV
 https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rajdhanitv.stream/playlist.m3u8
 #EXTINF: -1 tvg-id="429260" tvg-name="-1" tvg-logo="https://i.ibb.co/27tnt11/IMG-20240126-112025.jpg" group-title="BANGLADESH",CUMILLAH 24
@@ -110,7 +110,7 @@ http://103.149.142.133/0.m3u8
 #EXTINF: -1 tvg-id="769207" tvg-name="-1" tvg-logo="https://edge01.iptv.digijadoo.net/static/maasranga.png" group-title="BANGLADESH",MASRANGA TELEVISION
 http://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="186989" tvg-name="-1" tvg-logo="https://edge01.iptv.digijadoo.net/static/nexus_tv.png" group-title="BANGLADESH",NEXUS TELEVISION
-https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@NexusTelevisionLive
+https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@NexusTelevisionLive
 #EXTINF: -1 tvg-id="504024" tvg-name="-1" tvg-logo="https://i.ibb.co/W6XhVj9/IMG-20240126-085219.jpg" group-title="BANGLADESH",BISSHAW 24 BANGLA
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/biswabanglatv.stream/live-orgin/biswabanglatv.stream/chunks.m3u8
 #EXTINF: -1 tvg-id="620477" tvg-name="-1" tvg-logo="https://i.ibb.co/qC77HyB/IMG-20240126-111009.jpg" group-title="BANGLADESH",BANGLA 24 CANADA
