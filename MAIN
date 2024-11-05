@@ -1,4 +1,3 @@
-#EXTM3U 
-#EXTINF: -1 tvg-id="1" tvg-name="1" tvg-logo="https://image.pixahunt.com/graphics/long/Pixahunt-9beb581fe5a734755f596f63c18670ac.webp" group-title="SPORTS",T SPORTS
-http://tv.cloudcdn.me/live.ts?channelId=98&uid=13603&deviceMac=00:1A:79:64:B4:A6
-
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1200px-Bangladesh_Television_Logo.svg.png" group-title="",btv
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/live-orgin/btvbd-office-sg.stream/chunks.m3u8?nimblesessionid=462323364
