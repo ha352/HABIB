@@ -1,13 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Channel24logo.svg" group-title="",CHENNEL 24
-https://youtu.be/ij5P5ccbjik
-#EXTINF:-1 tvg-id="1" tvg-name="1" tvg-logo="tps://upload.wikimedia.org/wikipedia/en/thumb/9/99/DBC_News_Logo.svg/1200px-DBC_News_Logo.svg.png" group-title="",DBC 24
-https://youtu.be/VVK_8m2hoqA
-#EXTINF:-1 STAR JALSHA
-http://tv.cloudcdn.me/live.ts?channelId=116&uid=7245&deviceMac=00:1A:79:B0:A9:0C
-#EXTINF:-1, somoy tv
-https://youtu.be/-EkNyHXVqBw
-#EXTINF:-1, R TV
-https://youtu.be/hZkcxTcjhvg
 #EXTINF:-1, ZEE BANGLA
 http://xtv.ooo:8080/Jawad1994/03112371534/245893
+#EXTINF: -1, WILD EARTH
+https://wildearth-plex.amagi.tv/master.m3u8
+#EXTINF: -1, DISCOVERY BANGLA
+https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
+#EXTINF: -1, ANIMAL PLANTS
+https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
+#EXTINF: -1, JAMUNA TV
+https://ythls.armelin.one/channel/UCDj9HHrRUzlsTuPQN0PHxjw.m3u8
+#EXTINF: -1, CHENNEL 24
+https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@channel24digital
+#EXTINF: -1, PEACE TV BANGLA
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=qRApYCh4AUmcio2ge9BktA
+#EXTINF: -1, R TV
+https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/chunklist_w2015195144.m3u8
+#EXTINF: -1, INDEPENDENT TV
+https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
+#EXTINF: -1, SOMOY TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/playlist.m3u8
